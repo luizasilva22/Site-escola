@@ -8,7 +8,7 @@ heardr {
 .cabecalho-imagem{
    width: 20%;
 }
-.cabecalho {
+  .cabecalho {
   background-color: #424E61;
   color: white;
   display: flex;
